@@ -1,4 +1,9 @@
 # GLoVE: GARCH-Loss Based Volatility Forecasting Experiment
+
+這是台灣大學「深度學習與應用」期末專案，核心想法是：garch和深度學習如lstm, tsmixer等，若以不同線性組合進行loss管理，是否有機會同時容納兩家之長，讓他可以抓到傳統量化金茸的風險評估，以及深度學習模型的深度呢？
+這是簡報：https://docs.google.com/presentation/d/1RK-kOrt1dCIzXsmUMu1cpMOTFbq2gh3wWMnMSdsICV0/edit?usp=sharing
+這是介紹影片：https://www.youtube.com/watch?v=AhvbGsd1O98
+以下是參考的訓練與推論方法
 ## How to reenact the result and further comparison
 ### 0. Set up Python virtual environment
 ``` 
