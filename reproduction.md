@@ -12,6 +12,7 @@ pip install -r requirements.txt
 
 ### 1. Download newest dataset from **Releases**
 - unzip and rename the folder to "Dataset"
+- it is on https://github.com/hochienH/GLoVE -releases right now
 
 ### 2. Run following code to complete data preprocessing
 ```
